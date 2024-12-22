@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-12-18T15:55:30.483283800Z</date>
+  <millis>1734537330483</millis>
+  <nanos>283800</nanos>
+  <sequence>11</sequence>
+  <logger>simu</logger>
+  <level>INFO</level>
+  <class>agencesVoyages.agents.AgenceAgent</class>
+  <method>takeDown</method>
+  <thread>36</thread>
+  <message>Agent Agence : agentBus@192.168.112.1:1099/JADE quitte la plateforme.</message>
+</record>
+<record>
+  <date>2024-12-18T15:56:12.298463300Z</date>
+  <millis>1734537372298</millis>
+  <nanos>463300</nanos>
+  <sequence>12</sequence>
+  <logger>simu</logger>
+  <level>INFO</level>
+  <class>agencesVoyages.agents.AgenceAgent</class>
+  <method>takeDown</method>
+  <thread>34</thread>
+  <message>Agent Agence : agentTrain@192.168.112.1:1099/JADE quitte la plateforme.</message>
+</record>
+<record>
+  <date>2024-12-18T15:56:13.966211400Z</date>
+  <millis>1734537373966</millis>
+  <nanos>211400</nanos>
+  <sequence>13</sequence>
+  <logger>simu</logger>
+  <level>INFO</level>
+  <class>agencesVoyages.agents.AgenceAgent</class>
+  <method>takeDown</method>
+  <thread>38</thread>
+  <message>Agent Agence : agentCar@192.168.112.1:1099/JADE quitte la plateforme.</message>
+</record>
+</log>
